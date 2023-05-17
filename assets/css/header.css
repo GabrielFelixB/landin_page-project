@@ -1,0 +1,15 @@
+.menu_icon {
+    width: 1.2rem;
+    height: 1rem;
+    background-image: url(/assets/img/burguer_icon.svg);
+    background-size: cover;
+  }
+  
+  header nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 1.6rem;
+    border-bottom: 1px solid var(--neutral-600);
+    background-color: var(--neutral-100);
+  }
