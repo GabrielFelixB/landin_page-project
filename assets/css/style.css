@@ -411,6 +411,7 @@ main .hero img {
   display: flex;
   gap: 1.6rem;
   align-items: center;
+  margin-bottom: 2.4rem;
 }
 
 .post_header .post_tag {
